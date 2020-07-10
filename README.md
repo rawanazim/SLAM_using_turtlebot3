@@ -1,4 +1,4 @@
-# SLAM_using_turtlebot3
+# Turtlebot3-Localization-and-Mapping-SLAM
 Creating Indoor map with Stimultneous Localization and Mapping (SLAM) and Gmapping with turtlebot3.
 
 ....
